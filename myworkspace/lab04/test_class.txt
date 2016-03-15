@@ -1,0 +1,40 @@
+Source URI:
+http://10.196.209.77:5900/sdelab/person
+*************
+Resources:
+/person
+*******************
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<people>
+    <person id="1">
+        <firstname>Pinco</firstname>
+        <lastname>Pallino</lastname>
+        <birthdate>1967-9-12</birthdate>
+        <healthprofile>
+            <weight>85.5</weight>
+            <height>1.72</height>
+            <bmi>28.9007571660357</bmi>
+        </healthprofile>
+    </person>
+    <person id="2">
+        <firstname>Pinco</firstname>
+        <lastname>Pallo</lastname>
+        <birthdate>1987-8-23</birthdate>
+        <healthprofile>
+            <weight>85.5</weight>
+            <height>1.72</height>
+            <bmi>28.9007571660357</bmi>
+        </healthprofile>
+    </person>
+    <person id="3">
+        <firstname>John</firstname>
+        <lastname>Doe</lastname>
+        <birthdate>1978-04-27</birthdate>
+        <healthprofile>
+            <weight>68.0</weight>
+            <height>1.72</height>
+            <bmi>22.985397512168742</bmi>
+        </healthprofile>
+    </person>
+</people>
